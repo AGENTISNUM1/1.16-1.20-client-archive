@@ -131,4 +131,4 @@ Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
 > [PlutoSolutions](https://github.com/PlutoSolutions), an epic cool crack team, for providing 100% of the cracks in this archive.
 
 
-Check out my other projects, like my [Fixed Meteor Archive](https://github.com/AGENTISNUM1/meteor-future)!
+Check out my other projects, like my [Fixed Meteor Archive](https://github.com/AGENTISNUM1/meteor-future)
