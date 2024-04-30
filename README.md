@@ -120,11 +120,15 @@ Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
 
 ### Credits: 
 
-> Massive thanks to [Smug2f](https://github.com/Smug2f) and his [Fast Client Archive](https://github.com/Smug2f/Fast-Client-Archive) for the inspiration.
+> [Smug2f](https://github.com/Smug2f) and his [Fast Client Archive](https://github.com/Smug2f/Fast-Client-Archive) for the inspiration.
 
-> Another thanks to [ManInMyVan](https://github.com/ManInMyVan) (best github username ever) and his [Meteor Client Archive](https://github.com/ManInMyVan/meteor-archive)
+> [ManInMyVan](https://github.com/ManInMyVan) (best github username ever) and his [Meteor Client Archive](https://github.com/ManInMyVan/meteor-archive)
 
-> Finally, A big thanks to [PlutoSolutions](https://github.com/PlutoSolutions), an epic cool crack team, for providing 100% of the cracks in this archive.
+> [Kilab Gaming](https://www.youtube.com/@KiLABGaming) and his CCOs (Complete Client Overviews) for some safe clients.
+
+> [Mc-Hack.net](https://mc-hacks.net/) for a list of confirmed safe clients 
+
+> [PlutoSolutions](https://github.com/PlutoSolutions), an epic cool crack team, for providing 100% of the cracks in this archive.
 
 
 Check out my other projects, like my [Fixed Meteor Archive](https://github.com/AGENTISNUM1/meteor-future)!
