@@ -126,7 +126,7 @@ Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
 
 > [Kilab Gaming](https://www.youtube.com/@KiLABGaming) and his CCOs (Complete Client Overviews) for some safe clients.
 
-> [Mc-Hack.net](https://mc-hacks.net/) for a list of confirmed safe clients 
+> [Mc-Hacks.net](https://mc-hacks.net/) for a list of confirmed safe clients 
 
 > [PlutoSolutions](https://github.com/PlutoSolutions), an epic cool crack team, for providing 100% of the cracks in this archive.
 
