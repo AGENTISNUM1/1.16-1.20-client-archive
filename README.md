@@ -8,115 +8,64 @@ Cracked clients are marked with **[*]**
 
 Payed clients are marked with **[$]**
 
+After the client, I will add a number of stars to show my rating of the client. This is MY opinion, and should be taken with a grain of salt.
+
+
 **Enjoy!**
 
 ## Client Archive:
 
-### 1.16 clients:
+> **Ares**: [Ares Client Website](https://aresclient.org/download) ★★★★ (underrated, a good client but should be paired with something else)
 
-> **Ares**: [Ares Client Website](https://aresclient.org/download)
+> **Wurst**: [Download Wurst Client 7-35-1](https://www.wurstclient.net/updates/wurst-7-35-1/) ★★★ (The client has improved, but is not good for anarchy.)
 
-> **Wurst**: [Download Wurst Client 7-35-1](https://www.wurstclient.net/updates/wurst-7-35-1/)
+> **BleachHack**: [Bleachhack website (Use 1.0)](https://bleachhack.org/downloads.html) ★★★ (The CA is not horrible, but the client lacks features)
 
-> **BleachHack**: [Bleachhack website (Use 1.0)](https://bleachhack.org/downloads.html)
+> **ForgeHax**: [ForgeHax](https://github.com/fr1kin/ForgeHax) ★★ (Not a bad client, but the fact that it is command based is very annoying)
 
-> **ForgeHax**: [ForgeHax](https://github.com/fr1kin/ForgeHax)
+> **Inertia**: [Inertia](https://inertiaclient.com/) ★★★ (Not good for cpvp, but is not a bad client in general)
 
-> **Inertia**: [Inertia](https://inertiaclient.com/)
+> **Aristois**: [Aristois Installer](https://aristois.net/) ★★ (Lacks many features needed for anarchy)
 
-> **Aristois**: [Aristois Installer](https://aristois.net/)
+> **Impact**: [Impact Installer](https://impactclient.net/) ★★ (Is not maintained, and lacks many features)
 
-> **Impact**: [Impact Installer](https://impactclient.net/)
+> **[*] Boze Crack**: [Github](https://github.com/PlutoSolutions/Boze) ★★ (Has some good features, but is very outdated)
 
-> **Meteor Archive**: [Github](https://github.com/ManInMyVan/meteor-archive)
+> **[$] Boze Client**: [Website (18 USD)](https://boze.dev/) ★★★★★ (Amazing render modules, and solid pvp modules, when paired with a good config and blackout this client is near unstoppable)
 
-### 1.17 clients:
+> **[*] Bloody Crack**: [GitHub](https://github.com/PlutoSolutions/BloodyClient) - (Outdated, use the V2 crack)
 
-> **Ares**: [Ares Client Website](https://aresclient.org/download)
+> **[$] Bloody Client**: [Website (20 USD)](https://bloody-client.site/) ★ (Most of the client is skidded, and the website is copied and pasted. Do not buy.)
 
-> **Wurst**: [Dowload Wurst Client 7-27-3](https://www.wurstclient.net/updates/wurst-7-27-3/)
+> **[$] Future Client**: [Website (20 USD)](https://www.futureclient.net/) ★★★★★ (Known for pvp modules and some bypasses, I would say that the 1.20.4 version is worth the price)
 
-> **BleachHack**: [Bleachhack Website](https://bleachhack.org/)
+> **Jex Client**: [Github](https://github.com/DustinRepo/JexClient) ★★ (Lacks several features, very laggy)
 
-> **Meteor Archive**: [Github](https://github.com/ManInMyVan/meteor-archive)
+> **[*] Boze Crack v2**: [External Site](https://crystalpvp.ru/bozeupdate/) ★★★ (Outdated and harder to set up, but has some good modules for anarchy)
 
-> **Aristois**: [Aristois Installer](https://aristois.net/)
+> **[*] Bloody Crack v2**: [Github](https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0) ★★ (Not a bad crack, but is very laggy)
 
-### 1.18 clients
+> **[$] Rusherhack Client**: [Website (20 USD)](https://rusherhack.org/) ★★★★ (Nice client for render and util, some of the rewritten pvp modules work well. Use with another client.)
 
-> **Ares**: [Ares Client Website](https://aresclient.org/download)
+> **[$] Mio Client**: [Website (Invite Only, then 20 USD)](https://www.mioclient.me/) - (Known for pvp modules and render. Causes a bug with the future client.)
 
-> **BleachHack**: [Bleachhack Website](https://bleachhack.org/)
+> **Meteor Client**: [Website](https://meteorclient.com/) / [Archive](https://github.com/ManInMyVan/meteor-archive) ★★★★★ (Amazing client, and due to the addon system can become on of the best modern client options. Would reccomend.) **Addons can be found [HERE](https://anticope.pages.dev/)**
 
-> **Meteor Archive**: [Github](https://github.com/ManInMyVan/meteor-archive)
+> **Postman Client**: [Github](https://github.com/srgantmoomoo/postman?tab=readme-ov-file) - (Known for ca, never tried the client tho)
 
-> **Aristois**: [Aristois Installer](https://aristois.net/)
+> **MatHax**: [Discord](https://discord.gg/qKDty6yzKw) ★★★★ (Crashes are frequent, but is a good client with several bypasses)
 
-> **Wurst**: [Download Wurst Client 7-32](https://www.wurstclient.net/updates/wurst-7-32)
+> **ThunderHack Recode**: [Github](https://github.com/Pan4ur/ThunderHack-Recode) ★★★★★ (Amazing looking client with many solid pvp and render modules. Includes some bypasses)
 
-## 1.19 clients
+> **[$] Prestige**: [Website (10 Euros)](https://prestigeclient.vip/) ★★★★ (A great ghost client, not for anarchy)
 
-> **[*] Boze Crack**: [Github](https://github.com/PlutoSolutions/Boze)
+> **[*] Prestige Crack**: [External Site](https://crystalpvp.ru/prestige) ★★★★ (Great crack, but can crash on windows. Possibly unsafe)
 
-> **[$] Boze Client**: [Website (18 USD)](https://boze.dev/)
+> **LiquidBounce**: [Website](https://liquidbounce.net/download) ★★★★ (Solid client with many bypasses. Not for anarchy.)
 
-> **BleachHack**: [Bleachhack Website](https://bleachhack.org/)
+> **Lumina**: [Github](https://github.com/LuminaDevelopment/LuminaClient) ★★ (Ghost modules are easily detected.)
 
-> **Meteor Archive**: [Github](https://github.com/ManInMyVan/meteor-archive)
-
-> **Aristois**: [Aristois Installer](https://aristois.net/)
-
-> **Wurst**: [Download Wurst 7-35-2](https://www.wurstclient.net/updates/wurst-7-35-2)
-
-> **[*] Bloody Crack**: [GitHub](https://github.com/PlutoSolutions/BloodyClient)
-
-> **[$] Bloody Client**: [Website (20 USD)](https://bloody-client.site/)
-
-> **[$] Future Client**: [Website (20 USD)](https://www.futureclient.net/)
-
-> **Jex Client**: [Github](https://github.com/DustinRepo/JexClient)
-
-### 1.20 Clients
-
-> **[*] Boze Crack v2**: [External Site](https://crystalpvp.ru/bozeupdate/)
-
-> **[*] Bloody Crack v2**: [Github](https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0)
-
-> **[$] Boze Client**: [Website (18 USD)](https://boze.dev/)
-
-> **[$] Bloody Client**: [Website (20 USD)](https://bloody-client.site/)
-
-> **[$] Future Client**: [Website (20 USD)](https://www.futureclient.net/)
-
-> **[$] Rusherhack Client**: [Website (20 USD)](https://rusherhack.org/)
-
-> **[$] Mio Client**: [Website (Invite Only, then 20 USD)](https://www.mioclient.me/)
-
-> **Wurst Client**: [Dowload the latest Wurst version](https://www.wurstclient.net/download/)
-
-> **Meteor Client**: [Website](https://meteorclient.com/) **/** [Archive](https://github.com/ManInMyVan/meteor-archive)
-
-> **Postman Client**: [Github](https://github.com/srgantmoomoo/postman?tab=readme-ov-file)
-
-> **MatHax**: [Discord](https://discord.gg/qKDty6yzKw)
-
-> **ThunderHack Recode**: [Github](https://github.com/Pan4ur/ThunderHack-Recode)
-
-> **Aristois**: [Aristois Installer](https://aristois.net/)
-
-### 1.20 Ghost/nethpot Clients
-
-Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
-
-> **[$] Prestige**: [Website (10 Euros)](https://prestigeclient.vip/)
-
-> **[*] Prestige Crack**: [External Site](https://crystalpvp.ru/prestige)
-
-> **LiquidBounce**: [Website](https://liquidbounce.net/download)
-
-> **Lumina**: [Github](https://github.com/LuminaDevelopment/LuminaClient)
-
-> **Coffee Client**: [Dowload latest jar](https://github.com/Coffee-Client/Coffee/tree/master/bin)
+> **Coffee Client**: [Dowload latest jar](https://github.com/Coffee-Client/Coffee/tree/master/bin) ★★★ (Not a bad client, but not for anarchy. Lacks some features.)
 
 ### Credits: 
 
