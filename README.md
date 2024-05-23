@@ -1,4 +1,4 @@
-# 1.16-1.20 Client Archive
+# 1.16-1.20 Client Archive - RATINGS
 
 ![Static Badge](https://img.shields.io/badge/Made%20By%20-%20Wizard_11%20-%20purple)
 
@@ -13,7 +13,7 @@ After the client, I will add a number of stars to show my rating of the client. 
 
 **Enjoy!**
 
-## Client Archive:
+## Client Archive/Ratings:
 
 > **Ares**: [Ares Client Website](https://aresclient.org/download) ★★★★ (underrated, a good client but should be paired with something else)
 
