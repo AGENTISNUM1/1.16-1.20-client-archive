@@ -104,6 +104,8 @@ Payed clients are marked with **[$]**
 
 > **Aristois**: [Aristois Installer](https://aristois.net/)
 
+> **Shoreline**: [Shoreline Jar](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar) 
+
 ### 1.20 Ghost/nethpot Clients
 
 Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
@@ -116,7 +118,7 @@ Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
 
 > **Lumina**: [Github](https://github.com/LuminaDevelopment/LuminaClient)
 
-> **Coffee Client**: [Dowload latest jar](https://github.com/Coffee-Client/Coffee/tree/master/bin)
+> **Coffee Client**: [Download latest jar](https://github.com/Coffee-Client/Coffee/tree/master/bin)
 
 ### Credits: 
 
@@ -130,5 +132,6 @@ Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
 
 > [PlutoSolutions](https://github.com/PlutoSolutions), an epic cool crack team, for providing 100% of the cracks in this archive.
 
+**1.21 is in the works**
 
 Check out my other projects, like my [Fixed Meteor Archive](https://github.com/AGENTISNUM1/meteor-future)
