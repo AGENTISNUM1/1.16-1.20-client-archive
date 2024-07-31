@@ -90,7 +90,7 @@ Payed clients are marked with **[$]**
 
 > **[$] Rusherhack Client**: [Website (20 USD)](https://rusherhack.org/)
 
-> **[$] Mio Client**: [Website (Invite Only, then 20 USD)](https://www.mioclient.me/)
+> **[$] Mio Client**: [Website (20 USD)](https://www.mioclient.me/)
 
 > **Wurst Client**: [Dowload the latest Wurst version](https://www.wurstclient.net/download/)
 
