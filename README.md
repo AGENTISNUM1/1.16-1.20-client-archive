@@ -4,6 +4,10 @@
 
 This is an archive with hacked clients for the latest versions of minecraft. 
 
+None of these clients are confirmed safe! 
+
+**DOWNLOAD AT YOUR OWN RISK**
+
 Cracked clients are marked with **[*]**
 
 Payed clients are marked with **[$]**
@@ -30,6 +34,8 @@ Payed clients are marked with **[$]**
 
 > **Meteor Archive**: [Github](https://github.com/ManInMyVan/meteor-archive)
 
+> **Doomsday Client**: [Website](https://doomsdayclient.com/)
+
 ### 1.17 clients:
 
 > **Ares**: [Ares Client Website](https://aresclient.org/download)
@@ -42,6 +48,8 @@ Payed clients are marked with **[$]**
 
 > **Aristois**: [Aristois Installer](https://aristois.net/)
 
+> **Doomsday Client**: [Website](https://doomsdayclient.com/)
+
 ### 1.18 clients
 
 > **Ares**: [Ares Client Website](https://aresclient.org/download)
@@ -53,6 +61,8 @@ Payed clients are marked with **[$]**
 > **Aristois**: [Aristois Installer](https://aristois.net/)
 
 > **Wurst**: [Download Wurst Client 7-32](https://www.wurstclient.net/updates/wurst-7-32)
+
+> **Doomsday Client**: [Website](https://doomsdayclient.com/)
 
 ## 1.19 clients
 
@@ -76,11 +86,15 @@ Payed clients are marked with **[$]**
 
 > **Jex Client**: [Github](https://github.com/DustinRepo/JexClient)
 
+> **Doomsday Client**: [Website](https://doomsdayclient.com/) 
+
 ### 1.20 Clients
 
-> **[*] Boze Crack v2**: [External Site](https://crystalpvp.ru/bozeupdate/)
+> **[*] Boze Crack v2** (1.20.1): [External Site](https://crystalpvp.ru/bozeupdate/)
 
-> **[*] Bloody Crack v2**: [Github](https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0)
+> **[*] Bloody Crack v2** (1.20.1): [Github](https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0)
+
+> **[*] Prestige Crack**: [External Site](https://crystalpvp.ru/prestige)
 
 > **[$] Boze Client**: [Website (18 USD)](https://boze.dev/)
 
@@ -92,13 +106,13 @@ Payed clients are marked with **[$]**
 
 > **[$] Mio Client**: [Website (20 USD)](https://www.mioclient.me/)
 
+> **[$] Prestige**: [Website (10 Euros)](https://prestigeclient.vip/) 
+
 > **Wurst Client**: [Dowload the latest Wurst version](https://www.wurstclient.net/download/)
 
 > **Meteor Client**: [Website](https://meteorclient.com/) **/** [Archive](https://github.com/ManInMyVan/meteor-archive)
 
 > **Postman Client**: [Github](https://github.com/srgantmoomoo/postman?tab=readme-ov-file)
-
-> **MatHax**: [Discord](https://discord.gg/qKDty6yzKw)
 
 > **ThunderHack Recode**: [Github](https://github.com/Pan4ur/ThunderHack-Recode)
 
@@ -106,19 +120,58 @@ Payed clients are marked with **[$]**
 
 > **Shoreline**: [Shoreline Jar](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar) 
 
-### 1.20 Ghost/nethpot Clients
-
-Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
-
-> **[$] Prestige**: [Website (10 Euros)](https://prestigeclient.vip/)
-
-> **[*] Prestige Crack**: [External Site](https://crystalpvp.ru/prestige)
-
 > **LiquidBounce**: [Website](https://liquidbounce.net/download)
 
 > **Lumina**: [Github](https://github.com/LuminaDevelopment/LuminaClient)
 
 > **Coffee Client**: [Download latest jar](https://github.com/Coffee-Client/Coffee/tree/master/bin)
+
+> **Alien Client**: [1.20.4 Release](https://github.com/iM4dCat/Alien/releases/tag/1.3.7)
+
+> **Kura Client**: [Github](https://github.com/ApertureStatic/KuraNG-Public-Edition/)
+
+> **Melon Client** (1.20.1): [Download](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/MelonRewrite.jar) 
+
+> **3arthh4ck Fabric**: [Github](https://github.com/3arthh4ckDevelopment/3arthh4ck-Fabric)
+
+> **Blackout Leak**: [Github](https://github.com/AGENTISNUM1/Blackout-Leak/blob/main/blackout%202.0.jar)
+
+> **Doomsday Client**: [Website](https://doomsdayclient.com/)
+
+> **Flux Client**: [Website](https://flux.today/)
+
+> **NullPoint Client**: [Github](https://github.com/KgDW/NullPoint-Fabric) 
+
+### 1.21 Clients
+
+> **[$] Boze Client**: [Website (18 USD)](https://boze.dev/)
+
+> **[$] Future Client**: [Website (20 USD)](https://www.futureclient.net/)
+
+> **[$] Rusherhack Client**: [Website (20 USD)](https://rusherhack.org/)
+
+> **[$] Mio Client**: [Website (20 USD)](https://www.mioclient.me/)
+
+> **Wurst Client**: [Dowload the latest Wurst version](https://www.wurstclient.net/download/)
+
+> **Meteor Client**: [Website](https://meteorclient.com/) **/** [Archive](https://github.com/ManInMyVan/meteor-archive)
+
+> **LiquidBounce**: [Website](https://liquidbounce.net/download)
+
+> **Aristois**: [Aristois Installer](https://aristois.net/)
+
+> **ThunderHack Recode**: [Github](https://github.com/Pan4ur/ThunderHack-Recode)
+
+> **Aoba Client**: [Aoba Website](https://www.aobaclient.com/download)
+
+> **3arthh4ck Fabric**: [Github](https://github.com/3arthh4ckDevelopment/3arthh4ck-Fabric)
+
+> **Alien Client**: [Github](https://github.com/iM4dCat/Alien/releases)
+
+> **Doomsday Client**: [Website](https://doomsdayclient.com/)
+
+>  **Oyvey Port**: [Github](https://github.com/mioclient/oyvey-ported)
+ 
 
 ### Credits: 
 
@@ -128,10 +181,8 @@ Clients for ghost hacking, or for netherite-potion pvp. Not for anarchy.
 
 > [Kilab Gaming](https://www.youtube.com/@KiLABGaming) and his CCOs (Complete Client Overviews) for some safe clients.
 
-> [Mc-Hacks.net](https://mc-hacks.net/) for a list of confirmed safe clients 
+> [Mc-Hacks.net](https://mc-hacks.net/) for a list of confirmed safe clients.
 
-> [PlutoSolutions](https://github.com/PlutoSolutions), an epic cool crack team, for providing 100% of the cracks in this archive.
+> [PlutoSolutions](crystalpvp.ru), an epic cool crack team, for providing most of the cracks in this archive. Also the Mio Client devs.
 
-**1.21 is in the works**
-
-Check out my other projects, like my [Fixed Meteor Archive](https://github.com/AGENTISNUM1/meteor-future)
+Check out my other projects, like my [Meteor Future Archive](https://github.com/AGENTISNUM1/meteor-future)
