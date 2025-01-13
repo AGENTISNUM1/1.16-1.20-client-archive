@@ -90,7 +90,7 @@ Payed clients are marked with **[$]**
 
 ### 1.20 Clients
 
-> **[*] Boze Crack v2** (1.20.1): [External Site](https://crystalpvp.ru/bozeupdate/)
+> **[*] Boze Crack V2** (1.20.1): [External Site](https://crystalpvp.ru/bozeupdate/)
 
 > **[*] Bloody Crack v2** (1.20.1): [Github](https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0)
 
@@ -151,6 +151,8 @@ Payed clients are marked with **[$]**
 > **[$] Rusherhack Client**: [Website (20 USD)](https://rusherhack.org/)
 
 > **[$] Mio Client**: [Website (20 USD)](https://www.mioclient.me/)
+
+> **[$] Boze Client**: [Website](https://crystalpvp.ru/boze/) 
 
 > **Wurst Client**: [Dowload the latest Wurst version](https://www.wurstclient.net/download/)
 
